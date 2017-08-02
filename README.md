@@ -48,5 +48,3 @@ npm run build
 
 [地图数据](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.geojson) 是由 [Python 脚本](https://github.com/putianxi/putianxi.github.io/blob/master/assets/script/csv2geojson.py) 通过 [CSV文件](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.csv) 生成，[CSV文件](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.csv) 中包含了 高德地图 和 Google 地图的 MapID，可以在未来做更多的功能开发。
 "# smart" 
-"# smart" 
-"# beyond007008.github.io" 
