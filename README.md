@@ -1,14 +1,12 @@
-# 滚蛋吧！莆田系
 
 ![截图](./assets/images/screenshot/index.jpg)
 
 ### 项目说明
 
-本项目主要目的是直观列出全国的莆田系医院，让更多的人认识到莆田系医院的危害，并共同抵制莆田系医院以及其帮凶
 
-**项目网址：** [https://putianxi.github.io](https://putianxi.github.io)
+**项目网址：** [https://beyond007008.github.io](https://beyond007008.github.io)
 
-**原创数据：** [点此下载](https://github.com/putianxi/putianxi.github.io/raw/master/assets/data/hospital.xlsx)
+**原创数据：** [点此下载](https://github.com/beyond007008/beyond007008.github.io/raw/master/assets/data/hospital.xlsx)
 
 **数据版权：** [CC 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh)
 
@@ -46,5 +44,5 @@ npm run build
 
 网页在加载时，会异步请求一次 [GeoJson](http://geojson.org/) 数据，然后包括地图、搜索框、sidebar 均使用该数据进行解析和加载。
 
-[地图数据](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.geojson) 是由 [Python 脚本](https://github.com/putianxi/putianxi.github.io/blob/master/assets/script/csv2geojson.py) 通过 [CSV文件](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.csv) 生成，[CSV文件](https://github.com/putianxi/putianxi.github.io/blob/master/assets/data/hospital.csv) 中包含了 高德地图 和 Google 地图的 MapID，可以在未来做更多的功能开发。
+[地图数据](https://github.com/beyond007008/beyond007008.github.io/blob/master/assets/data/hospital.geojson) 是由 [Python 脚本](https://github.com/beyond007008/beyond007008.github.io/blob/master/assets/script/csv2geojson.py) 通过 [CSV文件](https://github.com/beyond007008/beyond007008.github.io/blob/master/assets/data/hospital.csv) 生成，[CSV文件](https://github.com/beyond007008/beyond007008.github.io/blob/master/assets/data/hospital.csv) 中包含了 高德地图 和 Google 地图的 MapID，可以在未来做更多的功能开发。
 "# smart" 
